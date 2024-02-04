@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  display: flex;
+  justify-content: space-evenly;
+}
+button {
+  background: linear-gradient(90deg, #de6262, #ffb88c);
+}
